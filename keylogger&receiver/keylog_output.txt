@@ -1,0 +1,53 @@
+
+
+[Window: keylogger_sender.py - Visual Studio Code | App: Code.exe - 2025-04-22 22:42:56.152780]
+[Mouse Click] Button.left at (1870, 454) on 2025-04-22 22:42:56.153654
+
+
+[Window: Program Manager | App: explorer.exe - 2025-04-22 22:42:56.315813]
+[Mouse Click] Button.left at (1870, 454) on 2025-04-22 22:42:56.316521
+
+
+[Window: Python Projects - File Explorer | App: explorer.exe - 2025-04-22 22:43:01.630611]
+[2025-04-22 22:43:01] [Key.alt_l]
+[2025-04-22 22:43:01] [Key.shift]
+[2025-04-22 22:43:07] [Key.cmd]
+[2025-04-22 22:43:07] [Key.print_screen]
+[Mouse Click] Button.left at (835, 200) on 2025-04-22 22:43:10.757803
+
+
+[Window: keylogger_sender.py - Visual Studio Code | App: Code.exe - 2025-04-22 22:43:11.626793]
+[Mouse Click] Button.left at (245, 172) on 2025-04-22 22:43:11.627545
+[Mouse Click] Button.left at (311, 515) on 2025-04-22 22:43:13.036761
+[Mouse Click] Button.left at (1867, 456) on 2025-04-22 22:43:14.922797
+
+
+[Window: Program Manager | App: explorer.exe - 2025-04-22 22:43:15.084242]
+[Mouse Click] Button.left at (1867, 456) on 2025-04-22 22:43:15.085103
+
+
+[Window: Python Projects - File Explorer | App: explorer.exe - 2025-04-22 22:43:17.542073]
+[Mouse Click] Button.left at (765, 475) on 2025-04-22 22:43:17.543031
+[Mouse Click] Button.left at (765, 475) on 2025-04-22 22:43:17.710902
+
+
+[Window: Keylogger Detector - Manual Scan | App: python3.13.exe - 2025-04-22 22:43:20.760876]
+[Mouse Click] Button.left at (446, 532) on 2025-04-22 22:43:20.761709
+
+
+[Window: Suspicious Process Detected | App: python3.13.exe - 2025-04-22 22:43:29.608556]
+[2025-04-22 22:43:29] [Key.cmd]
+[2025-04-22 22:43:29] [Key.print_screen]
+[Mouse Click] Button.left at (1134, 597) on 2025-04-22 22:43:30.729877
+
+
+[Window: Keylogger Detector - Manual Scan | App: python3.13.exe - 2025-04-22 22:43:31.828762]
+[Mouse Click] Button.left at (746, 50) on 2025-04-22 22:43:31.829593
+
+
+[Window: Python Projects - File Explorer | App: explorer.exe - 2025-04-22 22:43:36.454771]
+[Mouse Click] Button.left at (1535, 257) on 2025-04-22 22:43:36.455563
+
+
+[Window: keylogger_sender.py - Visual Studio Code | App: Code.exe - 2025-04-22 22:43:37.503946]
+[Mouse Click] Button.left at (1750, 202) on 2025-04-22 22:43:37.504828
